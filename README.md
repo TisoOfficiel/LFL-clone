@@ -1,5 +1,5 @@
 # lfl
-
+Project using Vuejs3 (Vuex,Vue Router). This project represent a clone of this web site :https://lollfl.com/
 ## Project setup
 ```
 npm install
