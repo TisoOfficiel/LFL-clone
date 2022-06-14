@@ -1,5 +1,8 @@
-# lfl
-Project using Vuejs3 (Vuex,Vue Router). This project represent a clone of this web site :https://lollfl.com/
+# LFL clone
+<p>Project using Vuejs3. This project represent a clone of this web site :https://lollfl.com/.</p>
+<p>This is my first projet with VueJs it allowed me to concretely use Vuex, Vue Router</p>
+
+
 ## Project setup
 ```
 npm install
@@ -17,7 +20,14 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshots
 
+### Home
+![App Screenshot](https://github.com/TisoOfficiel/LFL-clone/blob/main/Screenshot/home.PNG?raw=true)
+### Calendar
+![App Screenshot](https://github.com/TisoOfficiel/LFL-clone/blob/main/Screenshot/Calendar.PNG?raw=true)
+### Team
+![App Screenshot](https://github.com/TisoOfficiel/LFL-clone/blob/main/Screenshot/team.PNG?raw=true)
 
 ## Technologies utilisées
 
@@ -28,5 +38,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Technologies Vues Used
 
-<p> -Vuex </p>
-<p> -Vue Cli </p>
+<p> - Vuex </p>
+<p> - Vue Cli </p>
