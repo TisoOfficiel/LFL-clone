@@ -28,5 +28,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Technologies Vues Used
 
--Vuex
--Vue Cli
+<p> -Vuex </p>
+<p> -Vue Cli </p>
