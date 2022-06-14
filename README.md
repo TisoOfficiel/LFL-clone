@@ -39,4 +39,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Technologies Vues Used
 
 <p> - Vuex </p>
+<p> - Vue Router</p>
 <p> - Vue Cli </p>
