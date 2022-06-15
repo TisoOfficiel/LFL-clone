@@ -1,4 +1,4 @@
-## LFL clone
+# LFL clone
 <p>Project using Vuejs3. This project represent a clone of this web site :https://lollfl.com/.</p>
 <p>This is my first projet with VueJs it allowed me to concretely use Vuex, Vue Router</p>
 
